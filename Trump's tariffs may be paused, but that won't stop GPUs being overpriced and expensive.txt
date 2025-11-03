@@ -1,0 +1,20 @@
+Nvidia and its fierce rival AMD have had their third-party GPU prices hike to unprecedented levels in recent months, due to a mixture of scalping, high demand with limited availability, and tariffs - however, a new measure may halt GPU inflation from worsening.
+
+As reported by CNBC, Trump has implemented a 90-day pause on tariffs, excluding China. However, a 10% tariff on imports to the US and a 25% tariff on semiconductor goods (which includes our beloved GPUs) are still active - so we’re not out of the woods yet.
+
+While it doesn't exactly change much for consumers looking to buy new GPUs, what it does mean is that the new tariffs that could have been imposed on products like GPUs won’t have a terrible impact (at least, for the next 90 days).
+
+As previously reported by PCMag, GPUs were fortunately left untouched in terms of additional tariffs: it's something worth noting, as many GPU manufacturers are either headquartered or manufacture in tariffed regions.
+
+TSMC (Taiwan Semiconductor Manufacturing Company), which is Nvidia's main outsource for manufacturing its GPU chips, was previously warned that it would pay 100% tax if it didn't move at least part of its manufacturing arm to the US: TSMC's pledge to do so and the new 90-day pause have put Team Green and others using the TSMC foundries in the clear for now.
+
+Companies like Razer also paused laptop sales, alongside others like Nintendo, which stopped pre-order plans for the Switch 2 in the US. Now, there's a better chance of sales proceeding as normal - but I must say I doubt this will happen anytime soon.
+
+This is good news, but it's not going to change anything regarding ridiculous GPU prices
+Essentially, the biggest takeaway here is that Nvidia, AMD, and many other companies who rely on the TSMC process have dodged a bullet: what that means for us consumers, is the chances of PC hardware (especially GPUs) pricing suddenly ballooning to even more extreme amounts is less likely with no immediate threat of more tariffs.
+
+However, this doesn't mean new price hikes are impossible - and we've seen this occur recently with AMD's Radeon RX 9070 series partner cards. Long before tariffs were a major talking point, GPUs were already consistently retailing for more than their launch price, likely stemming from high demand and limited availability - caused by a combination of the factors I listed above, and the fresh hunger for hardware for AI enterprises.
+
+PC gamers have already shown that they will buy GPUs regardless of how much they are upcharged: it's evident across multiple online retailers, with GPUs way above their launch price, and they're still sold out.
+
+Most importantly, don't expect any significant shift in a positive direction GPU market's current landscape of inflation - but the 90-day pause will certainly cool tensions, so that’s something.

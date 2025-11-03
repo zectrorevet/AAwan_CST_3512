@@ -1,0 +1,64 @@
+President Trump called April 2, 2025 'Liberation Day', due to the announcement of 'reciprocal' tariffs against other countries. Since then, there's been lots of uncertainty and back-and-forth over what's being tariffed and by how much.
+
+That's already had a knock-on effect on the PC gaming hardware industry, which relies heavily on global supply chains, from shifting manufacturing and supply chains to price hikes and paused shipments. I've been combing through all the recent tariff news to make heads and tails of some of the effects we've seen on the industry, all of which you can find below.
+
+Effects on PC gaming gear so far
+
+It's clear that tariffs can have knock-on effects for consumer prices. As Best Buy's CEO explained back in March: "We expect our vendors across our entire assortment will pass along some level of tariff costs to retailers, making price increases for American consumers highly likely."
+
+We've already seen reports that Nvidia GPU prices have been hiked for exactly this reason, with the buck being passed on to AIBs and retailers who are then forced to raise prices in turn.
+
+But none of these are concrete effects that we can point to, so let's have a look at some of those.
+
+Just bear in mind that the following are short-term effects, and over the long term, there might be pros that make these short-term negative effects worth it or cons that make these short-term positive effects not worth it. I'll leave that for the political and economic pundits to figure out.
+
+Negative effects
+The following are some real-world effects of tariffs that we've seen on the PC gaming hardware industry so far:
+
+February 2025
+
+Motherboard manufacturer ASRock says it will be moving at least some of its manufacturing away from China: "As for the 10% tariff applied to other products like GPU cards, we need some time to transfer the manufacturing to other countries."
+Acer says it will "have to adjust the end user price" of products in response to tariffs: "We think 10 percent probably will be the default price increase because of the import tax. It’s very straightforward."
+HP says that "less than 10 percent of the products coming to North America will be coming from China" by October due to changes it's been making in its supply chain network.
+April 2025
+
+Modular laptop and PC maker Framework puts a temporary pause on US sales of some Framework 13 laptops "due to the new tariffs that came into effect on April 5th." These later resume, although Framework says it will "update pricing to incorporate tariff impact." Now that tariffs are lowered again, Framework "will adjust pricing on parts and modules that are manufactured in China to reflect the reduced tariffs."
+Hyte says in a Reddit Q&A that it has had to pause many orders because of tariffs: "We are still bringing in all products that we have open pre-orders from customers. Everything else has been paused or being diverted to other regions."
+8BitDo pauses shipping from its China-based warehouses to the US, but these later resume.
+Razer pauses direct laptop purchases in the United States, but these resume later in the month.
+Positive effects
+There have also been some positive effects that might at least in part be due to the tariffs—positive, that is, if you live in the US. Although we should bear in mind that it's hard to say exactly how much of an effect tariffs had on these investment decisions compared to other factors such as previous investments.
+
+March 2025
+
+TSMC announces a $100 billion investment in the US, including three new fabs, two advanced packaging facilities, and an R&D centre. This $100 billion is in addition to the $65 billion that TSMC had already pledged prior to the Trump administration, with $6.6 billion of this being thanks to grants from the previous CHIPS act and $5 billion in loans through the same act.
+Nvidia announces "several hundred billion" dollars worth of electronics to be made in the US over the next four years.
+There have been others (SoftBank, Apple, and so on), but these two are the main ones that are relevant for the PC gaming hardware industry. It's important to note that any possible positive effects will probably take a long time to come into full force.
+
+The main benefits might be more manufacturing based in the US and supply chains diverted away from China in general, but manufacturing takes a long time to set up, and supply chains can take a long time to adjust.
+
+What are US tariffs, basically?
+
+A tariff is a levy imposed on importing certain products from another country. People in the home country must pay an additional tax for these products if they are imported from a country the tariff applies to. This is supposed to encourage people at home to buy these products from their home country rather than importing from elsewhere, because tariffed imports become too expensive.
+
+US tariffs were in effect prior to the second Trump administration, but since the start of April 2025, the US President Donald Trump introduced extensive 'reciprocal' tariffs against various countries and industries. A few days later, Trump walked back the tariffs against most countries but jacked them up against China. China is the primary target of US tariffs in part due to an ongoing trade war and technological 'arms race'.
+
+Although semiconductors and computer parts were initially exempted from big reciprocal tariffs (but not from base tariffs such as base 20% 'fentanyl' tariffs), before long the US started to probe the effects on national security of semiconductor and computing imports, seeming to set the stage for bigger upcoming tariffs on chips and "derivative" products. Whether these will, in fact, see bigger tariffs in the coming weeks and months is an open question.
+
+The US and China then put a 90-day pause on big reciprocal tariffs, dropping from 145% and 125% back down to 30% and 10%, respectively. There were already some duties in place in addition to these, though, which might mean tariffs are actually a little higher than these numbers overall.
+
+The Financial Times explains: "The consultancy Capital Economics calculated that, because of duties that predated Trump’s return to power this year, total US tariffs on China will now come down to about 40 per cent, while Chinese tariffs on the US would be about 25 per cent."
+
+Furthermore, these tariffs are only dropped against certain goods, and what will happen with semiconductors is still unknown. The pause doesn't apply to semiconductors, and the US is still deciding what to do about chips and computers.
+
+Why do tariffs affect PC gaming gear?
+
+Despite lowering reciprocal tariffs, widespread tariffs are still in place, and there's a lot of uncertainty around the fate of semiconductor and derivative imports as well as related computing products. It seems like the US is still figuring out what to do with those.
+
+Such uncertainty might be part of the plan: The US can keep tariffs lower than was initially threatened, but if the threat still looms, companies may still move manufacturing away from China and towards the US regardless.
+
+Many PC hardware companies have manufacturing based, at least in part, in China. This is true even for many companies that we might not initially expect. For instance, some PSUs from American company Corsair are made by Seasonic, and Seasonic's factories are located in China.
+
+If companies keep manufacturing in China and other highly tariffed countries, American customers will have to pay a big tax on these products, and might stop buying them. Given the US is the world's biggest consumer market, many companies will want to keep the country's companies and people as their customers.
+
+We can therefore expect at least some companies to do what they can to move manufacturing elsewhere, possibly even to the US. But such changes can take time, and in the meantime, we can expect prices on some PC gaming tech to take a hit, unless manufacturing companies lower prices to account for the new tariffs. In slim-margin industries, however, companies won't be able to do that too often or for too long.

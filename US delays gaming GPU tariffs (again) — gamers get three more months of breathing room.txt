@@ -1,0 +1,19 @@
+The Office of the U.S. Trade Representative (USTR) has once again kicked the can down the road on reinstating a 25% tariff on graphics cards and related PC hardware imported from China. The exemption, originally set to expire on August 31, has now been extended until November 29, 2025.
+
+This means that GPUs, motherboards, and SSDs assembled in China can continue shipping into the U.S. without a hefty import tax for at least another three months. The agency cited public comments and ongoing supply chain constraints as justification, while also admitting that alternative sources outside China still aren’t ready to take on the load.
+
+A tariff with nine lives
+The tariff saga started back in 2018, when the Trump administration’s Section 301 action imposed a 25% duty on a wide swath of Chinese electronics. Graphics cards and motherboards were caught in the net, only to be carved out via a temporary exemption in 2019. Since then, that carve-out has been repeatedly renewed — usually at the eleventh hour — under both administrations.
+
+The exemption was supposed to end on June 1 this year. Instead, USTR extended it until August 31. Now, three days before that deadline, the agency has blinked again, moving the finish line to late November. The official notice also states that the USTR, "...may continue to consider further extensions or additional modifications as appropriate."
+
+For GPU makers and partners, the extension avoids a sudden 25% hike in import costs. Most consumer graphics hardware is still built in China, and shifting production elsewhere isn’t a quick or cheap fix. The tariff costs would have landed squarely on distributors and OEMs without the waiver, which inevitably means higher prices for consumers.
+
+Vendors have lobbied aggressively to keep the exemption alive, warning that tariffs would destabilize pricing across desktops, laptops, and DIY builds. ASRock and others noted in 2024 that without the carve-out, the GPU market, which is already prone to shortages and price spikes, would be thrown into chaos.
+
+Great news for hardware fans
+Another three months of tariff limbo is hardly reassuring geopolitically. The constant back-and-forth illustrates how fragile U.S.-China trade policy remains. But for hardware enthusiasts and gamers, the news is welcome. GPU supplies have only just begun to stabilize after a bruising year of volatility, where prices spiked repeatedly on thin inventories.
+
+The tariff delay means no sudden 25% surcharge layered on top of that shaky recovery. High-end cards may still cost a premium, but at least those premiums won’t be inflated by policy overnight. The same goes for gaming laptops and prebuilts, which often rely on China-assembled boards and GPUs.
+
+For DIY builders, it adds a little breathing room heading into the fall upgrade season — more time to shop without Washington’s trade war driving sticker shock back into the market.
